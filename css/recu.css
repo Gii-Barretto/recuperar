@@ -1,0 +1,45 @@
+*{
+    margin: 10;
+    padding: 0;
+}
+
+#título{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(206, 66, 248);
+    margin-left: 3% ;
+
+}
+
+#subtítulo {
+    font-family: sans-serif;
+    color: rgb(8, 8, 8);
+    margin-left: 4% ;
+ 
+
+}
+
+body{
+    font-size: 28px;
+}
+
+img{
+    float: left;
+    width: ;
+    border: 0 ;
+    padding: 36px;
+    margin: 17px ;
+}
+
+table{
+    font-size: 1.2em;
+    background-color: ;
+    border:  ;
+    margin-bottom: 1em;
+    color: ;
+    box-shadow: ;
+    position: ;
+}
+
+table:hover{
+    background: rgb(173, 233, 225);
+}
